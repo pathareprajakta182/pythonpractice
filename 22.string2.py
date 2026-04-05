@@ -1,6 +1,6 @@
 # upper,lower, capitalize , count , find ,index , endswith , startswith 
 # isLower () , isUpper ()
-
+print("some changes")
 print("hello".upper())
 print("Hello".lower())
 print("hello".capitalize())
