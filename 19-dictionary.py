@@ -1,11 +1,11 @@
-student={
+#tudent
     "fname":"tanish",
     "lname":"chawde",
     "age":18,
     "city":"pune"
 
 }
-print(student)
+#rint(student)
 
 for key in student:
     print(key)
